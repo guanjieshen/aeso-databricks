@@ -47,7 +47,3 @@ SEQUENCE BY
   ingest_timestamp
 STORED AS
   SCD TYPE 1;
-
--- COMMAND ----------
-
-CREATE 
